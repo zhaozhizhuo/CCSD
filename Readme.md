@@ -27,7 +27,7 @@ Specifically, we enhance the model's attention to the uniqueness of the relation
 
 **ZY-BERT**
 
-- Pre-trained ZY-BERT could be downloaded at [here](https://drive.google.com/file/d/1fC9geqeLk5YK9y_O-UjfIKtLeu0Iie8j/view?usp=sharing).
+- Pre-trained ZY-BERT could be downloaded at [here](https://drive.google.com/file/d/1fC9geqeLk5YK9y_O-UjfIKtLeu0Iie8j/view?usp=sharing) , save it in `./bert-base-uncased`.
 
 **Pretrained syndrome embeddings**
 
