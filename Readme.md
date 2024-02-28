@@ -55,10 +55,11 @@ python main.py\
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
 
 ```
-  @inproceedings{ijcai2020-461-vu,
-      title     = {A Label Attention Model for ICD Coding from Clinical Text},
-      author    = {Vu, Thanh and Nguyen, Dat Quoc and Nguyen, Anthony},
-      booktitle = {Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design, {CSCWD 2024}},             
-      year      = {2024},
-   }
+  @inproceedings{zhao2024thinking,
+  title={Thinking the Importance of Patient’s Chief Complaint in TCM Syndrome Differentiation},
+  author={Zhizhuo Zhao, Xueping Peng, Yong Li, Hao Wu, Weiyu Zhang, Wenpeng Lu},
+  booktitle={Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)},
+  year={2024},
+  organization={IEEE}
+}
 ```
