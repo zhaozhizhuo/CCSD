@@ -56,10 +56,10 @@ Any scientific publications that use our codes and datasets should cite the foll
 
 ```
   @inproceedings{zhao2024thinking,
-  title={Thinking the Importance of Patient’s Chief Complaint in TCM Syndrome Differentiation},
-  author={Zhizhuo Zhao, Xueping Peng, Yong Li, Hao Wu, Weiyu Zhang, Wenpeng Lu},
-  booktitle={Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)},
-  year={2024},
-  organization={IEEE}
+  	title={Thinking the Importance of Patient’s Chief Complaint in TCM Syndrome Differentiation},
+  	author={Zhizhuo Zhao, Xueping Peng, Yong Li, Hao Wu, Weiyu Zhang, Wenpeng Lu},
+	booktitle={Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)},
+  	year={2024},
+  	organization={IEEE}
 }
 ```
